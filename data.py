@@ -1,1 +1,1 @@
-NAME = "World"
+NAME = "Git Student"
